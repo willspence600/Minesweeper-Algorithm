@@ -1,2 +1,2 @@
 # Minesweeper-Algorithm
-Text-based minesweeper game with board-solving algorithm in C. Created to familiarize and refine my skills in C.
+Text-based minesweeper game with board-solving algorithm in C. Created in 2021 to familiarize and refine my skills in C.
